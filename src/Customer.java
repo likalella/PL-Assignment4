@@ -9,7 +9,7 @@ public class Customer {
     private int orderNum;
     private int totalNum;
 
-    public Customer(String id, String name, String phone, String joinDate){
+    public Customer(String id, String name, String phone, Strin gg joinDate){
         this.id = id;
         this.name = name;
         this.phone = phone;
